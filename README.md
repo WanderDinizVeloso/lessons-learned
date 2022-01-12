@@ -1,6 +1,6 @@
 # Projeto Lessons Learned
 
-Projeto durante o Curso de Desenvolvimento WEB, Turma 12, da [trybe](https://www.betrybe.com/), onde desenvolvi minhas habilidades em HTML e CSS, na criação de site pessoal.
+Projeto desenvolvido durante o Curso de Desenvolvimento WEB, Turma 12, da [trybe](https://www.betrybe.com/), onde desenvolvi minhas habilidades em HTML e CSS, na criação de site pessoal.
 
 ---
 
